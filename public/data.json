@@ -1,0 +1,105 @@
+[     
+  {
+     "id": "017",
+     "title": "Crowson's Cheese",
+     "alt": "Old Crowson's Cheese label",
+     "img": "/images/Crowsons-cheese.png"
+},
+  {
+     "id": "016",
+     "title": "Glasgow to Pitlochry",
+     "alt": "Old train tickets from Glasgow to Pitlochry",
+     "img": "/images/Glasgow-train-ticket.png"
+},
+     {
+     "id": "015",
+     "title": "Le Journal 2022",
+     "alt": "Newspaper from Le Labo",
+     "img": "/images/Le-labo.png"
+},
+    {
+     "id": "014",
+     "title": "Augustiner Bräu München",
+     "alt": "German Augustiner round coaster",
+     "img": "/images/augustiner.png"
+},
+    {
+     "id": "013",
+     "title": "Special Issue Slanted Prague",
+     "alt": "Newspaper zine for the Slanted Prague publication",
+     "img": "/images/Slanted-prague.png"
+},
+    {
+     "id": "012",
+     "title": "Slanted: Tokyo",
+     "alt": "Pink book cover for the Slanted: Tokyo magazine",
+     "img": "/images/Slanted-Tokyo.jpeg"
+},
+
+    {
+     "id": "011",
+     "title": "Berlin Typo Posters",
+     "alt": "Yellow and Red poster for Berlin Typo Posters",
+     "img": "/images/Berlin-poster-book.jpeg"
+},
+    {
+     "id": "010",
+     "title": "Dark BVG Ticket",
+     "alt": "A special ticket from the Berlin public transport",
+     "img": "/images/Dark-ticket.png"
+},
+    {
+     "id": "009",
+     "title": "Kinder Biennale",
+     "alt": "Yellow exhibition pamphlet for the Kinder Biennale",
+     "img": "/images/kinder-biennale.png"
+},
+    {
+     "id": "008",
+     "title": "Tallers Oberts BCN 2019",
+     "alt": "Inner pages of the BCN 2019 booklet",
+     "img": "/images/BCN.png"
+},
+    {
+     "id": "007",
+     "title": "Slanted #28: Contemporary Typefaces ",
+     "alt": "Inner pages from Slanted Warsaw: Contemporary Typefaces",
+     "img": "/images/Slanted-warsaw.png"
+},
+    {
+     "id": "006",
+     "title": "Gutenberg Museum",
+     "alt": "Pamphlet from the Gutenberg Museum",
+     "img": "/images/Gutenberg-museum.png"
+},
+    {
+     "id": "005",
+     "title": "Shinjuku > Odawara",
+     "alt": "Train schedule from Shinjuku to Odawara",
+     "img": "/images/Tokyo-train.jpeg"
+},
+    {
+     "id": "004",
+     "title": "Blue Moon",
+     "alt": "Blue Moon square coaster",
+     "img": "/images/Blue-moon.png"
+},
+   {
+     "id": "003",
+     "title": "Daikan-Yama",
+     "alt": "Small Japanese local train ticket",
+     "img": "/images/Japan-Train-Ticket.png"
+},
+    {
+     "id": "002",
+     "title": "The Dojosin Fire Festival",
+     "alt": "Postcard for the Nosawa Dojosin Fire Festival",
+     "img": "/images/Nosawa-postcard.jpeg"
+},
+    {
+     "id": "001",
+     "title": "Der Filter SND 2014",
+     "alt": "German newspaper poster with overlapping texts",
+     "img": "/images/Der-filter-2014.png"
+}
+]
