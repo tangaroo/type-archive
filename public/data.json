@@ -1,117 +1,177 @@
-[  
-     {
-     "id": "019",
-     "title": "The System Cannot be Reformed",
-     "alt": "Risoprinted newspaper zine",
-     "img": "/images/Risoprint-zine.jpeg"
-     },   
-   {
-     "id": "018",
-     "title": "This is Class War",
-     "alt": "Black and white poster protesting about class war",
-     "img": "/images/Class-war.jpeg"
-   },   
+[
   {
-     "id": "017",
-     "title": "Crowson's Cheese",
-     "alt": "Old Crowson's Cheese label",
-     "img": "/images/Crowsons-cheese.png"
-},
+    "id": "029",
+    "title": "Le Journal #11",
+    "alt": "A store flyer from Le Labo printed as a newspaper",
+    "img": "/images/Le-labo-HK.jpeg"
+  },
   {
-     "id": "016",
-     "title": "Glasgow to Pitlochry",
-     "alt": "Old train tickets from Glasgow to Pitlochry",
-     "img": "/images/Glasgow-train-ticket.png"
-},
-     {
-     "id": "015",
-     "title": "Le Journal 2022",
-     "alt": "Newspaper from Le Labo",
-     "img": "/images/Le-labo.png"
-},
-    {
-     "id": "014",
-     "title": "Augustiner Bräu München",
-     "alt": "German Augustiner round coaster",
-     "img": "/images/augustiner.png"
-},
-    {
-     "id": "013",
-     "title": "Special Issue Slanted Prague",
-     "alt": "Newspaper zine for the Slanted Prague publication",
-     "img": "/images/Slanted-prague.png"
-},
-    {
-     "id": "012",
-     "title": "Slanted: Tokyo",
-     "alt": "Pink book cover for the Slanted: Tokyo magazine",
-     "img": "/images/Slanted-Tokyo.jpeg"
-},
+    "id": "028",
+    "title": "Spitfire MKI",
+    "alt": "An old spitfire plane toy from Hong Kong",
+    "img": "/images/Spitfire-MKI.png"
+  },
+  {
+    "id": "027",
+    "title": "I found it",
+    "alt": "An old book containing various mazes",
+    "img": "/images/I-found-it.jpeg"
+  },
+  {
+    "id": "026",
+    "title": "Japanese Safety Monster",
+    "alt": "A postcard with an illustration of a Japanese safety monster",
+    "img": "/images/Japanese-safety-monster.jpeg"
+  },
+  {
+    "id": "025",
+    "title": "Stamps",
+    "alt": "A collection of old stamps from Hong Kong",
+    "img": "/images/HK-stamps.jpeg"
+  },
+  {
+    "id": "024",
+    "title": "Myth Makers",
+    "alt": "Program from a Hong Kong Exhibition",
+    "img": "/images/HK-myth.jpeg"
+  },
+  {
+    "id": "023",
+    "title": "Pak Fu Fui",
+    "alt": "Pak Fu Fui sweet packaging",
+    "img": "/images/Pak-fu-fui.png"
+  },
+  {
+    "id": "022",
+    "title": "JR Pass",
+    "alt": "Copy of a JR train pass from Japan",
+    "img": "/images/JR-pass.jpeg"
+  },
+  {
+    "id": "021",
+    "title": "Nagano > Ilyama",
+    "alt": "Train ticket from a Japanese bullet train ride",
+    "img": "/images/Bullet-train-ticket.jpeg"
+  },
+  {
+    "id": "020",
+    "title": "Fuji",
+    "alt": "Paper coaster with prints of Mount Fuji",
+    "img": "/images/Fuji.png"
+  },
+  {
+    "id": "019",
+    "title": "The System Cannot be Reformed",
+    "alt": "Risoprinted newspaper zine",
+    "img": "/images/Risoprint-zine.jpeg"
+  },
+  {
+    "id": "018",
+    "title": "This is Class War",
+    "alt": "Black and white poster protesting about class war",
+    "img": "/images/Class-war.jpeg"
+  },
+  {
+    "id": "017",
+    "title": "Crowson's Cheese",
+    "alt": "Old Crowson's Cheese label",
+    "img": "/images/Crowsons-cheese.png"
+  },
+  {
+    "id": "016",
+    "title": "Glasgow to Pitlochry",
+    "alt": "Old train tickets from Glasgow to Pitlochry",
+    "img": "/images/Glasgow-train-ticket.png"
+  },
+  {
+    "id": "015",
+    "title": "Le Journal #8",
+    "alt": "Newspaper from Le Labo",
+    "img": "/images/Le-labo.jpeg"
+  },
+  {
+    "id": "014",
+    "title": "Augustiner Bräu München",
+    "alt": "German Augustiner round coaster",
+    "img": "/images/augustiner.png"
+  },
+  {
+    "id": "013",
+    "title": "Special Issue Slanted Prague",
+    "alt": "Newspaper zine for the Slanted Prague publication",
+    "img": "/images/Slanted-prague.jpeg"
+  },
+  {
+    "id": "012",
+    "title": "Slanted: Tokyo",
+    "alt": "Pink book cover for the Slanted: Tokyo magazine",
+    "img": "/images/Slanted-Tokyo.jpeg"
+  },
 
-    {
-     "id": "011",
-     "title": "Berlin Typo Posters",
-     "alt": "Yellow and Red poster for Berlin Typo Posters",
-     "img": "/images/Berlin-Poster-Book.jpeg"
-},
-    {
-     "id": "010",
-     "title": "Dark BVG Ticket",
-     "alt": "A special ticket from the Berlin public transport",
-     "img": "/images/Dark-ticket.png"
-},
-    {
-     "id": "009",
-     "title": "Kinder Biennale",
-     "alt": "Yellow exhibition pamphlet for the Kinder Biennale",
-     "img": "/images/kinder-biennale.png"
-},
-    {
-     "id": "008",
-     "title": "Tallers Oberts BCN 2019",
-     "alt": "Inner pages of the BCN 2019 booklet",
-     "img": "/images/BCN.png"
-},
-    {
-     "id": "007",
-     "title": "Slanted #28: Contemporary Typefaces ",
-     "alt": "Inner pages from Slanted Warsaw: Contemporary Typefaces",
-     "img": "/images/Slanted-warsaw.png"
-},
-    {
-     "id": "006",
-     "title": "Gutenberg Museum",
-     "alt": "Pamphlet from the Gutenberg Museum",
-     "img": "/images/Gutenberg-museum.png"
-},
-    {
-     "id": "005",
-     "title": "Shinjuku > Odawara",
-     "alt": "Train schedule from Shinjuku to Odawara",
-     "img": "/images/Tokyo-train.jpeg"
-},
-    {
-     "id": "004",
-     "title": "Blue Moon",
-     "alt": "Blue Moon square coaster",
-     "img": "/images/Blue-moon.png"
-},
-   {
-     "id": "003",
-     "title": "Daikan-Yama",
-     "alt": "Small Japanese local train ticket",
-     "img": "/images/Japan-Train-Ticket.png"
-},
-    {
-     "id": "002",
-     "title": "The Dojosin Fire Festival",
-     "alt": "Postcard for the Nosawa Dojosin Fire Festival",
-     "img": "/images/Nosawa-Postcard.jpeg"
-},
-    {
-     "id": "001",
-     "title": "Der Filter SND 2014",
-     "alt": "German newspaper poster with overlapping texts",
-     "img": "/images/Der-filter-2014.png"
-}
+  {
+    "id": "011",
+    "title": "Berlin Typo Posters",
+    "alt": "Yellow and Red poster for Berlin Typo Posters",
+    "img": "/images/Berlin-Poster-Book.jpeg"
+  },
+  {
+    "id": "010",
+    "title": "Dark BVG Ticket",
+    "alt": "A special ticket from the Berlin public transport",
+    "img": "/images/Dark-ticket.png"
+  },
+  {
+    "id": "009",
+    "title": "Kinder Biennale",
+    "alt": "Yellow exhibition pamphlet for the Kinder Biennale",
+    "img": "/images/kinder-biennale.png"
+  },
+  {
+    "id": "008",
+    "title": "Tallers Oberts BCN 2019",
+    "alt": "Inner pages of the BCN 2019 booklet",
+    "img": "/images/BCN.jpeg"
+  },
+  {
+    "id": "007",
+    "title": "Slanted #29: Contemporary Typefaces ",
+    "alt": "Inner pages from Slanted Helsinki: Contemporary Typefaces",
+    "img": "/images/Slanted-29.jpeg"
+  },
+  {
+    "id": "006",
+    "title": "Gutenberg Museum",
+    "alt": "Pamphlet from the Gutenberg Museum",
+    "img": "/images/Gutenberg-museum.png"
+  },
+  {
+    "id": "005",
+    "title": "Shinjuku > Odawara",
+    "alt": "Train schedule from Shinjuku to Odawara",
+    "img": "/images/Tokyo-train.jpeg"
+  },
+  {
+    "id": "004",
+    "title": "Blue Moon",
+    "alt": "Blue Moon square coaster",
+    "img": "/images/Blue-moon.png"
+  },
+  {
+    "id": "003",
+    "title": "Daikan-Yama",
+    "alt": "Small Japanese local train ticket",
+    "img": "/images/Japan-Train-Ticket.png"
+  },
+  {
+    "id": "002",
+    "title": "The Dojosin Fire Festival",
+    "alt": "Postcard for the Nosawa Dojosin Fire Festival",
+    "img": "/images/Nosawa-Postcard.jpeg"
+  },
+  {
+    "id": "001",
+    "title": "Der Filter SND 2014",
+    "alt": "German newspaper poster with overlapping texts",
+    "img": "/images/Der-filter-2014.png"
+  }
 ]

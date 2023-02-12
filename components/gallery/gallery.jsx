@@ -1,19 +1,31 @@
 import "../../styles/styles.js";
 import styled from "styled-components";
 
+import Image from "next/image.js";
+
 import data from "../../public/data.json";
 
 const Gallery = () => {
-  return data.map((image) => (
-    <Container key={image.id}>
-      <Card>
-        <img src={image.img} alt={image.alt} loading="lazy" />
-      </Card>
-      <p>
-        {image.id} / {image.title}
-      </p>
-    </Container>
-  ));
+  return data.map((image) => {
+    // const img = new Image();
+    // img.src = `http://localhost:3000/${image}`;
+
+    // img.onload = () => {
+    //   console.log(img.height);
+    //   console.log(img.width);
+    // };
+    return (
+      <Container key={image.id}>
+        <Card>
+          <img src={image.img} alt={image.alt} loading="lazy" />
+          {/* <Image src={image.img} alt={image.alt} layout="responsive" width="" /> */}
+        </Card>
+        <p>
+          {image.id} / {image.title}
+        </p>
+      </Container>
+    );
+  });
 };
 
 export default Gallery;
