@@ -27,7 +27,7 @@ export default function Introduction() {
         </a>
         .
       </p>
-      <p>{data.length} things / Last updated 11.02.2023</p>
+      <p>{data.length} things / Last updated 12.02.2023</p>
     </Content>
   );
 }
