@@ -5,7 +5,7 @@ export default function FooterComponent() {
   return (
     <Footer>
       <p>
-        &copy; 2022 / Say hey @{" "}
+        &copy; 2023 / Say hey @{" "}
         <a href="https://cassandratang.me">cassandratang.me</a>
       </p>
     </Footer>
