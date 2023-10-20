@@ -1,4 +1,15 @@
-[
+[  {
+  "id": "034",
+  "title": "Apple (2021)",
+  "alt": "Old Apple brochure from 2021",
+  "img": "/images/apple-2001.png"
+},
+  {
+    "id": "033",
+    "title": "DOT Ticket",
+    "alt": "DOT train ticket from Copenhagen",
+    "img": "/images/CPH-ticket.png"
+  },
   {
     "id": "032",
     "title": "Super Nonna",
