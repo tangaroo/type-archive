@@ -11,7 +11,7 @@ export default function Introduction() {
         simple online archive of all sorts of type related things from various
         places. Apart from being a huge type fan, I also collect{" "}
         <a
-          href="https://worthynewsletters.netlify.app/"
+          href="https://awesomenewsletters.vercel.app/"
           target="_blank"
           rel="noreferrer"
         >
