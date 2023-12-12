@@ -1,9 +1,46 @@
-[  {
-  "id": "034",
-  "title": "Apple (2021)",
-  "alt": "Old Apple brochure from 2021",
-  "img": "/images/apple-2001.png"
-},
+[
+  {
+    "id": "040",
+    "title": "Hong Kong Match Factory",
+    "alt": "Old label from Hong Kong Match Factory",
+    "img": "/images/hk-match-factory.png"
+  },
+  {
+    "id": "039",
+    "title": "Rothmans (1975)",
+    "alt": "Old matchbox from Rothmans Rally Hong Kong 1975 ",
+    "img": "/images/rothmans.png"
+  },
+  {
+    "id": "038",
+    "title": "Choco Mini",
+    "alt": "Packaging from Choco Mini chocolates",
+    "img": "/images/choco-mini.png"
+  },
+  {
+    "id": "037",
+    "title": "Noodle shop menu",
+    "alt": "Takeaway menu from a local Hong Kong noodle shop",
+    "img": "/images/hk-food-menu.jpg"
+  },
+  {
+    "id": "036",
+    "title": "London Straight Cut",
+    "alt": "Vintage ad of London Straight Cut cigarettes",
+    "img": "/images/cigarette-ad.jpg"
+  },
+  {
+    "id": "035",
+    "title": "Upload your company logo",
+    "alt": "Receipt from a Pizza Restaurant",
+    "img": "/images/pizza-receipt.png"
+  },
+  {
+    "id": "034",
+    "title": "Apple (2021)",
+    "alt": "Old Apple brochure from 2021",
+    "img": "/images/apple-2001.png"
+  },
   {
     "id": "033",
     "title": "DOT Ticket",
