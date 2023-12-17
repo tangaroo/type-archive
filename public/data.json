@@ -1,9 +1,27 @@
 [
   {
+    "id": "043",
+    "title": "Double Circle Brand",
+    "alt": "Old label from Double Circle Brand Safety Matches",
+    "img": "/images/double-circle-matches.jpg"
+  },
+  {
+    "id": "042",
+    "title": "Manzamo Ticket",
+    "alt": "Entrance ticket to Manzamo, Okinawa",
+    "img": "/images/manzamo.jpg"
+  },
+  {
+    "id": "041",
+    "title": "Family Mart",
+    "alt": "Receipt from Family Mart",
+    "img": "/images/family-mart.jpg"
+  },
+  {
     "id": "040",
-    "title": "Hong Kong Match Factory",
-    "alt": "Old label from Hong Kong Match Factory",
-    "img": "/images/hk-match-factory.png"
+    "title": "Mrs Maria Lee's Cookery Card",
+    "alt": "Old cooking recipe from Mrs Maria Lee's Cookery Card",
+    "img": "/images/minced-pork.png"
   },
   {
     "id": "039",
