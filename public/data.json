@@ -1,5 +1,23 @@
 [
   {
+    "id": "046",
+    "title": "Okinawa Churaumi Aquarium",
+    "alt": "Entrance ticket for the Okinawa Aquarium",
+    "img": "/images/okinawa-aquarium.png"
+  },
+  {
+    "id": "045",
+    "title": "Godzilla",
+    "alt": "Old godzilla cards",
+    "img": "/images/godzilla.png"
+  },
+  {
+    "id": "044",
+    "title": "McDonald's Japan",
+    "alt": "Japanese receipt from McDonald's in Okinawa",
+    "img": "/images/mcdonalds-jp.jpg"
+  },
+  {
     "id": "043",
     "title": "Double Circle Brand",
     "alt": "Old label from Double Circle Brand Safety Matches",
