@@ -31,7 +31,7 @@ export const GlobalStyle = createGlobalStyle`
     body {
     background: var(--color-background);
     color: var(--color-text);
-    margin: 0 auto;
+    
   }
 }
 
