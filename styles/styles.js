@@ -31,12 +31,13 @@ export const GlobalStyle = createGlobalStyle`
     body {
     background: var(--color-background);
     color: var(--color-text);
-    margin: 0 auto;
+    
   }
 }
 
   main {
     max-width: 1440px;
+    margin: 0 auto;
     padding: var(--spacing-sm);
     align-items: center;
 
