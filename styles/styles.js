@@ -2,61 +2,65 @@ import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
 
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+
 :root {
     --white: #f9f9f9;
-    --grey: #f1f1f1;
+    --light-grey: #f1f1f1;
+    --grey: #666666;
     --black: #222222;
     --color-text: var(--black);
     --color-background: var(--white);
-    --color-card: var(--grey);
+    --color-card: var(--light-grey);
 
     --spacing-unit: 4px;
+    --spacing-xxs: calc(3*var(--spacing-unit));
+    --spacing-xs: calc(3*var(--spacing-unit));
     --spacing-sm: calc(5*var(--spacing-unit));
     --spacing-md: calc(8*var(--spacing-unit));
     --spacing-lg: calc(15*var(--spacing-unit));
     --rounded: calc(7*var(--spacing-unit));
 
-    --heading-font: Baskerville;
-    --body-font: Courier New;
+    --heading-font: Instrument Serif;
+    --body-font: Inter;
 
     --type-sm: calc(3.5*var(--spacing-unit));
-    --type-md: calc(4*var(--spacing-unit));
+    --type-md: calc(6*var(--spacing-unit));
     --type-heading: calc(10*var(--spacing-unit));
 
     body {
     background: var(--color-background);
     color: var(--color-text);
-    max-width: 1440px;
     margin: 0 auto;
   }
 }
 
   main {
     max-width: 1440px;
-    margin: auto;
     padding: var(--spacing-sm);
     align-items: center;
 
     display: flex;
     flex-direction: column;
-
-      @media (min-width: 480px) {
-        margin-left: auto;
-        margin-right: auto;
-        padding: var(--spacing-lg);
+    padding: var(--spacing-sm);
+    overflow: hidden;
     }
   }
 
   h1 {
-    font: 400 var(--type-md)/1.3 var(--heading-font), 'Times';
+    font: 400 var(--type-md)/1.3 var(--heading-font), serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin: 0;
+
+    @media (min-width: 600px) {
+      font-size: var(--type-heading);
+    }
   }
 
   p {
-    font: 400 var(--type-sm)/1.3 var(--body-font), 'Courier';
-    margin: var(spacing-sm) 0px 0px 0px;
+    font: 400 var(--type-sm)/1.3 var(--body-font), sans-serif;
+    margin: 0px;
   }
 
   a {
@@ -72,7 +76,23 @@ export const GlobalStyle = createGlobalStyle`
 
   img {
     max-width: 100%;
-    max-height: 100%;
+  }
+
+  button {
+    background: rgba(0,0,0,0);
+    border: none;
+    padding: 0px var(--spacing-unit);
+    margin: var(--spacing-xs);
+    transition: all 0.3s;
+
+    :hover {
+      border-bottom: 1px solid;
+    }
+
+    &.selected {
+      border-bottom: 1px solid;
+    }
+
   }
   
 `;
