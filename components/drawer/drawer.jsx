@@ -1,31 +1,35 @@
 import styled from "styled-components";
-import { PrimaryButton } from "../../styles/styles";
 
 export default function Drawer({ isOpen, onClose }) {
   return (
     <DrawerContainer isOpen={isOpen}>
       <DrawerContent>
-        <h1>About</h1>
-        <h2>
+        <div>
+        <h2>About</h2>
+
+      <h3><i>To collect means to bring or gather together a number of people or things.</i></h3>
+
+        <h3>
           This is a simple online archive of all sorts of type related things
           that have been collected over the last few years, all from various
           places during my travels.
-        </h2>
+        </h3>
 
-        <h2>
+        <h3>
           Some just caught my attention right away, others made me think for
-          abit. And for a few, I just loved the visual aesthetics or concepts behind it.
-        </h2>
+          abit. And for a few, I just loved the visual aesthetics or concepts
+          behind it.
+        </h3>
 
-        <h2>
+        <h3>
           Apart from being a huge type fan, I also collect other things like
           <a href="https://awesomenewsletters.vercel.app/">
             {" "}
             awesome newsletters
           </a>
           .
-        </h2>
-
+        </h3>
+        </div>
         <button onClick={onClose}>✕ Close</button>
       </DrawerContent>
     </DrawerContainer>
@@ -41,7 +45,6 @@ const DrawerContainer = styled.div`
   background: var(--black);
   color: var(--light-grey);
   transition: right 0.5s;
-  overflow-y: auto;
 
   @media (min-width: 600px) {
     width: 50%;
@@ -54,11 +57,19 @@ const DrawerContainer = styled.div`
   @media (min-width: 1200px) {
     width: 30%;
   }
-
 `;
 
 const DrawerContent = styled.div`
+height: 95%;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: space-between;
   padding: var(--spacing-md);
+
+  p {
+    margin-bottom: var(--spacing-xs);
+  }
 
   a {
     color: var(--light-grey);
@@ -66,6 +77,7 @@ const DrawerContent = styled.div`
     :hover {
       border-bottom: 1px solid;
     }
+
   }
 
   button {
@@ -73,6 +85,6 @@ const DrawerContent = styled.div`
     color: var(--light-grey);
     padding: var(--spacing-xs) 0px;
     border: none;
-    margin-top: var(--spacing-md);
+    margin: 0px;
   }
 `;
