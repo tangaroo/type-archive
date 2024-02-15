@@ -1,9 +1,33 @@
 [
   {
+    "id": "050",
+    "title": "Homer, all about lobster",
+    "alt": "Fun business cards from Homer Lobster",
+    "location": "Homer Lobster (Pigalle), Paris",
+    "type": ["all", "FR"],
+    "url": "/images/50.png"
+  },
+  {
+    "id": "048",
+    "title": "Plan du Musée",
+    "alt": "Map of the Louvre Musuem in French'",
+    "location": "Louvre Musuem, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/49.jpg"
+  },
+  {
+    "id": "049",
+    "title": "Hey there you bastard",
+    "alt": "Map of the Louvre Musuem in French",
+    "location": "The French Bastards (Saint-Denis), Paris",
+    "type": ["all", "FR"],
+    "url": "/images/48.png"
+  },
+  {
     "id": "047",
     "title": "Maison Fondee Hier",
     "alt": "Paper bag with black bold type from the French Bastards'",
-    "location": "The French Bastards, Paris",
+    "location": "The French Bastards (Saint-Denis), Paris",
     "type": ["all", "FR"],
     "url": "/images/47.png"
   },
