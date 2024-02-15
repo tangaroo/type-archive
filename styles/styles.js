@@ -1,3 +1,4 @@
+import { css } from "styled-components";
 import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
@@ -52,11 +53,16 @@ export const GlobalStyle = createGlobalStyle`
     font: 400 var(--type-md)/1.3 var(--heading-font), serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin: 0;
+    margin-bottom: var(--spacing-xxs);
 
     @media (min-width: 600px) {
       font-size: var(--type-heading);
     }
+  }
+
+  h2 {
+    font: 400 var(--type-md)/1.3 var(--body-font), sans-serif;
+    margin-bottom: var(--spacing-xxs);
   }
 
   p {
@@ -95,5 +101,26 @@ export const GlobalStyle = createGlobalStyle`
     }
 
   }
-  
+
+`;
+
+export const PrimaryButton = css`
+  cursor: pointer;
+  background-color: var(--color-card);
+  color: var(--text);
+  border: 1px solid rgba(0,0,0,0);
+  border-radius: var(--spacing-sm);
+  cursor: pointer;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  margin-top: var(--spacing-md);
+  transition: all 0.5s;
+
+  &:hover {
+    background-color: var(--color-background);
+    border: 1px solid var(--grey);
+  }
+
+  @media (min-width: 600px) {
+    margin-top: var(--spacing-lg);
+  }
 `;

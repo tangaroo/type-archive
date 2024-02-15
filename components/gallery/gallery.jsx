@@ -2,6 +2,7 @@ import { useState } from "react";
 import styled from "styled-components";
 import Image from "next/image.js";
 import data from "../../public/data.json";
+import { PrimaryButton } from "../../styles/styles";
 
 export default function Gallery({ selected }) {
   const itemsPerPage = 15;
@@ -49,6 +50,26 @@ export default function Gallery({ selected }) {
   );
 }
 
+const GalleryContainer = styled.section`
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--spacing-md);
+
+  @media (min-width: 580px) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media (min-width: 800px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (min-width: 1200px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+`;
+
 const Container = styled.section`
   text-align: left;
   margin-bottom: var(--spacing-sm);
@@ -86,41 +107,6 @@ const StyledImage = styled(Image)`
 `;
 
 const LoadMoreButton = styled.button`
-  background-color: var(--color-card);
-  color: var(--text);
-  border: 1px solid var(--color-background);
-  border-radius: var(--spacing-sm);
-  cursor: pointer;
-  padding: var(--spacing-xs) var(--spacing-sm);
-  margin-top: var(--spacing-md);
-  transition: all 0.5s;
-
-  &:hover {
-    background-color: var(--color-background);
-    border: 1px solid var(--grey);
-  }
-
-  @media (min-width: 600px){
-    margin-top: var(--spacing-lg);
-  }
+  ${PrimaryButton}
 `;
 
-const GalleryContainer = styled.section`
-  width: 100%;
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: var(--spacing-md);
-
-  @media (min-width: 580px) {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  @media (min-width: 800px) {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  @media (min-width: 1200px) {
-    grid-template-columns: repeat(4, 1fr);
-  }
-
-`;
