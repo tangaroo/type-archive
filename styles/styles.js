@@ -26,7 +26,8 @@ export const GlobalStyle = createGlobalStyle`
     --body-font: Inter;
 
     --type-sm: calc(3.5*var(--spacing-unit));
-    --type-md: calc(6*var(--spacing-unit));
+    --type-md: calc(4.5*var(--spacing-unit));
+    --type-lg: calc(6*var(--spacing-unit));
     --type-heading: calc(10*var(--spacing-unit));
 
     body {
@@ -50,7 +51,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   h1 {
-    font: 400 var(--type-md)/1.3 var(--heading-font), serif;
+    font: 400 var(--type-lg)/1.3 var(--heading-font), serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-bottom: var(--spacing-xxs);
@@ -61,6 +62,13 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   h2 {
+    font: 400 var(--type-lg)/1.3 var(--heading-font), serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: var(--spacing-xxs);
+  }
+
+  h3 {
     font: 400 var(--type-md)/1.3 var(--body-font), sans-serif;
     margin-bottom: var(--spacing-xxs);
   }
