@@ -2,107 +2,68 @@ import "../../styles/styles.js";
 import styled from "styled-components";
 
 import data from "../../public/data.json";
+import Accordion from "../accordion/accordion.jsx";
 
 export default function HeaderComponent({ selected, setSelected }) {
   return (
     <Header>
+      <Intro>
         <h1>The type wunderkammer ({data.length})</h1>
-      <Nav>
-      <StyledButton
-      className={selected === "all" ? "active" : ""}
-      onClick={() => setSelected("all")}
-    >
-      All
-    </StyledButton>
-
-    <StyledButton
-      className={selected === "FR" ? "active" : ""}
-      onClick={() => setSelected("FR")}
-    >
-          +33
-        </StyledButton>
-
-        <StyledButton
-      className={selected === "ES" ? "active" : ""}
-      onClick={() => setSelected("ES")}
-    >
-          +34
-        </StyledButton>
-
-        <StyledButton
-      className={selected === "UK" ? "active" : ""}
-      onClick={() => setSelected("UK")}
-    >
-          +44
-        </StyledButton>
-
-        <StyledButton
-      className={selected === "DE" ? "active" : ""}
-      onClick={() => setSelected("DE")}
-    >
-          +49
-        </StyledButton>
-
-
-        <StyledButton
-      className={selected === "JP" ? "active" : ""}
-      onClick={() => setSelected("JP")}
-    >
-          +81
-        </StyledButton>
-
-        <StyledButton 
-      className={selected === "HK" ? "active" : ""}
-      onClick={() => setSelected("HK")}
-    >
-          +852
-        </StyledButton>
-
-        <StyledButton
-      className={selected === "US" ? "active" : ""}
-      onClick={() => setSelected("US")}
-    >
-          +1
-        </StyledButton>
-
-      </Nav>
+        <About>
+          <span><h2>
+            Wunderkammer: a place where a collection of curiosities and rarities is exhibited.
+            </h2></span>
+          <h2>
+            This is an online archive of type related things
+            that have been collected over the last few years, all from various
+            places during my travels.
+          </h2>
+        </About>
+      </Intro>
+      <Accordion selected={selected} setSelected={setSelected} />
     </Header>
   );
 }
 
 const Header = styled.header`
-  width: 100vw;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  text-align: center;
-  padding: var(--spacing-md) var(--spacing-sm) var(--spacing-lg) var(--spacing-sm);
-
+  align-items: flex-start;
+  padding: 0px 0px var(--spacing-sm) 0px;
+ 
+  @media (min-width: 800px) {
+    align-items: flex-end;
+    padding: var(--spacing-md) 0px var(--spacing-md) 0px;
+  }
 `;
 
-const Nav = styled.nav`
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
+const Intro = styled.div`
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+
+@media (min-width: 800px) {
+  flex-direction: row;
+  align-items: flex-start;
+justify-content: space-between;
+}
+
+span {
+  color: var(--grey);
+}
 `
 
-const StyledButton = styled.button`
-  background: rgba(0, 0, 0, 0);
-  color: var(--grey);
-  border: none;
-  padding: 0px var(--spacing-unit);
-  margin: var(--spacing-xxs);
-  transition: all 0.3s;
+const About = styled.div`
+width: 100%;
+display: grid;
+grid-template-columns: 1fr;
+gap: var(--spacing-md);
+text-align: left;
 
-  &:hover,
-  &:focus {
-    border-bottom: 1px solid;
-    outline: none; /* Optional: Remove default focus outline */
-  }
+@media (min-width: 800px){
+  grid-template-columns: 1fr 1fr;
+  width: 50%;
+  text-align: right;
+}
 
-  &.active {
-    color: var(--color-text);
-    border-bottom: 1px solid;
-  }
-`;
+`

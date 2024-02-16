@@ -4,11 +4,11 @@ import styled from "styled-components";
 export default function FooterComponent() {
   return (
     <Footer>
-      <p>Last updated 15.02.2024</p>
-      <p>
+      <h2>Last updated 16.02.2024</h2>
+      <h2>
         Say hey @{" "}
         <a href="https://cassandratang.me">cassandratang.me</a>
-      </p>
+      </h2>
     </Footer>
   );
 }

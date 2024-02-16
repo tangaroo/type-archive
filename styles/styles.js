@@ -3,7 +3,10 @@ import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
 
-@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+@font-face {
+  font-family: "Geist Mono";
+  src: url("/GeistMono-Light.woff2");
+}
 
 :root {
     --white: #f9f9f9;
@@ -22,13 +25,12 @@ export const GlobalStyle = createGlobalStyle`
     --spacing-lg: calc(15*var(--spacing-unit));
     --rounded: calc(7*var(--spacing-unit));
 
-    --heading-font: Instrument Serif;
+    --heading-font: Geist Mono;
     --body-font: Inter;
 
-    --type-sm: calc(3.5*var(--spacing-unit));
-    --type-md: calc(4.5*var(--spacing-unit));
-    --type-lg: calc(6*var(--spacing-unit));
-    --type-heading: calc(10*var(--spacing-unit));
+    --type-sm: calc(3 * var(--spacing-unit));
+    --type-md: calc(3.5 * var(--spacing-unit));
+    --type-lg: calc(4 * var(--spacing-unit));
 
     body {
     background: var(--color-background);
@@ -54,27 +56,17 @@ export const GlobalStyle = createGlobalStyle`
     font: 400 var(--type-lg)/1.3 var(--heading-font), serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    margin-bottom: var(--spacing-xxs);
-
-    @media (min-width: 600px) {
-      font-size: var(--type-heading);
-    }
+    margin: 0px 0px var(--spacing-xxs) 0px;
   }
 
   h2 {
-    font: 400 var(--type-lg)/1.3 var(--heading-font), serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-bottom: var(--spacing-xxs);
+    font: 400 var(--type-sm)/1.3 var(--heading-font), sans-serif;
+    margin: 0px;
   }
 
-  h3 {
-    font: 400 var(--type-md)/1.3 var(--body-font), sans-serif;
-    margin-bottom: var(--spacing-xxs);
-  }
 
   p {
-    font: 400 var(--type-sm)/1.3 var(--body-font), sans-serif;
+    font: 400 var(--type-md)/1.3 var(--body-font), sans-serif;
     margin: 0px;
   }
 
@@ -132,3 +124,24 @@ export const PrimaryButton = css`
     margin-top: var(--spacing-lg);
   }
 `;
+
+export const SecondaryButton = css`
+background: rgba(0, 0, 0, 0);
+  color: var(--grey);
+  font: 400 var(--type-sm)/1.3 var(--heading-font), sans-serif;
+  border: none;
+  padding: 0px var(--spacing-unit);
+  margin: var(--spacing-xxs);
+  transition: all 0.3s;
+
+  &:hover,
+  &:focus {
+    border-bottom: 1px solid;
+    outline: none;
+  }
+
+  &.active {
+    color: var(--color-text);
+    border-bottom: 1px solid;
+  }
+`
