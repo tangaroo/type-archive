@@ -1,5 +1,21 @@
 [
   {
+    "id": "052",
+    "title": "This scent haunts my ex lovers",
+    "alt": "Newspaper newsletter from Lush",
+    "location": "Lush, Glasgow",
+    "type": ["all", "UK"],
+    "url": "/images/52.png"
+  },
+  {
+    "id": "051",
+    "title": "Mikkeller Chocolate",
+    "alt": "Bright orange packaging of Mikkeller chocolate",
+    "location": "Copenhagen Airport, Copenhagen",
+    "type": ["all", "DK"],
+    "url": "/images/51.png"
+  },
+  {
     "id": "050",
     "title": "Homer, all about lobster",
     "alt": "Fun business cards from Homer Lobster",
@@ -25,7 +41,7 @@
   },
   {
     "id": "047",
-    "title": "Maison Fondee Hier",
+    "title": "Maison fondee hier",
     "alt": "Paper bag with black bold type from the French Bastards'",
     "location": "The French Bastards (Saint-Denis), Paris",
     "type": ["all", "FR"],
@@ -44,7 +60,7 @@
     "title": "Mikkeller Beer Geek",
     "alt": "Postcard from Mikkeller Beer'",
     "location": "Copenhagen Airport, Copenhagen",
-    "type": ["all", "UK"],
+    "type": ["all", "DK"],
     "url": "/images/45.jpg"
   },
   {

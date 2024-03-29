@@ -49,6 +49,13 @@ export default function Accordion({ selected, setSelected }) {
         </StyledButton>
 
         <StyledButton
+      className={selected === "DK" ? "active" : ""}
+      onClick={() => setSelected("DK")}
+    >
+          +45
+        </StyledButton>
+
+        <StyledButton
       className={selected === "DE" ? "active" : ""}
       onClick={() => setSelected("DE")}
     >
