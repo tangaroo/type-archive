@@ -7,7 +7,7 @@ export default function FooterComponent() {
       <h2>Last updated 22.03.2024</h2>
       <h2>
         Say hey @{" "}
-        <a href="https://cassandratang.me">cassandratang.me</a>
+        <a href="https://cassandratang.com">cassandratang.com</a>
       </h2>
     </Footer>
   );
