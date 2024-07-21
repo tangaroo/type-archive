@@ -21,32 +21,31 @@ export default function Gallery({ selected }) {
 
   return (
     <>
-    <GalleryContainer>
-      {paginatedImages.map((image) => (
-        <Container key={image.id}>
-          <Card>
-            <ImageWrapper>
-              <StyledImage
-                fill={true}
-                src={image.url}
-                alt={image.alt}
-                loading="lazy"
-                sizes="100%"
-              />
-            </ImageWrapper>
-          </Card>
-          <p>
-            {image.id} / {image.title}
-          </p>
-          <SmallText>{image.location}</SmallText>
-        </Container>
-      ))}
-
-    </GalleryContainer>
-          {visibleImages < filteredImages.length && (
-            <LoadMoreButton onClick={handleLoadMore}>Load More</LoadMoreButton>
-          )}
-          </>
+      <GalleryContainer>
+        {paginatedImages.map((image, index) => (
+          <Container key={index}>
+            <Card>
+              <ImageWrapper>
+                <StyledImage
+                  fill={true}
+                  src={image.url}
+                  alt={image.alt}
+                  loading="lazy"
+                  sizes="100%"
+                />
+              </ImageWrapper>
+            </Card>
+            <p>
+              {filteredImages.length - index} / {image.title}
+            </p>
+            <SmallText>{image.location}</SmallText>
+          </Container>
+        ))}
+      </GalleryContainer>
+      {visibleImages < filteredImages.length && (
+        <LoadMoreButton onClick={handleLoadMore}>Load More</LoadMoreButton>
+      )}
+    </>
   );
 }
 

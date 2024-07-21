@@ -1,6 +1,12 @@
 [
   {
-    "id": "055",
+    "title": "Eight:48 Issue 6",
+    "alt": "Design magazine called Eight:48,issue 6",
+    "location": "Counter Print, Ifold",
+    "type": ["all", "UK"],
+    "url": "/images/56.png"
+  },
+  {
     "title": "Haw Flakes",
     "alt": "Hot pink label for traditional haw flakes snack",
     "location": "759 Tsuen Wan, Hong Kong",
@@ -8,7 +14,6 @@
     "url": "/images/55.png"
   },
   {
-    "id": "054",
     "title": "Look Diner",
     "alt": "Pink glossy wrapping for a strawberry flavoured chocolate",
     "location": "759 (Tsuen Wan), Hong Kong",
@@ -16,7 +21,6 @@
     "url": "/images/54.png"
   },
   {
-    "id": "053",
     "title": "British Chinese Food by Karlie Wu",
     "alt": "Red print for delicious british chinese food",
     "location": "CCA, Glasgow",
@@ -24,7 +28,6 @@
     "url": "/images/53.png"
   },
   {
-    "id": "052",
     "title": "This scent haunts my ex lovers",
     "alt": "Newspaper newsletter from Lush",
     "location": "Lush, Glasgow",
@@ -32,7 +35,6 @@
     "url": "/images/52.png"
   },
   {
-    "id": "051",
     "title": "Mikkeller Chocolate",
     "alt": "Bright orange packaging of Mikkeller chocolate",
     "location": "Copenhagen Airport, Copenhagen",
@@ -40,7 +42,6 @@
     "url": "/images/51.png"
   },
   {
-    "id": "050",
     "title": "Homer, all about lobster",
     "alt": "Fun business cards from Homer Lobster",
     "location": "Homer Lobster (Pigalle), Paris",
@@ -48,7 +49,6 @@
     "url": "/images/50.png"
   },
   {
-    "id": "048",
     "title": "Plan du Musée",
     "alt": "Map of the Louvre Musuem in French'",
     "location": "Louvre Musuem, Paris",
@@ -56,7 +56,6 @@
     "url": "/images/49.jpg"
   },
   {
-    "id": "049",
     "title": "Hey there you bastard",
     "alt": "Map of the Louvre Musuem in French",
     "location": "The French Bastards (Saint-Denis), Paris",
@@ -64,7 +63,6 @@
     "url": "/images/48.png"
   },
   {
-    "id": "047",
     "title": "Maison fondee hier",
     "alt": "Paper bag with black bold type from the French Bastards'",
     "location": "The French Bastards (Saint-Denis), Paris",
@@ -72,7 +70,6 @@
     "url": "/images/47.png"
   },
   {
-    "id": "046",
     "title": "Look Diner",
     "alt": "Pastel coloured packaging of a snack cake'",
     "location": "759 Tsuen Wan, Hong Kong",
@@ -80,7 +77,6 @@
     "url": "/images/46.png"
   },
   {
-    "id": "045",
     "title": "Mikkeller Beer Geek",
     "alt": "Postcard from Mikkeller Beer'",
     "location": "Copenhagen Airport, Copenhagen",
@@ -88,7 +84,6 @@
     "url": "/images/45.jpg"
   },
   {
-    "id": "044",
     "title": "Upload your company logo",
     "alt": "Receipt with heading 'upload your company logo'",
     "location": "Errol's Hot Pizza, Glasgow",
@@ -96,7 +91,6 @@
     "url": "/images/44.png"
   },
   {
-    "id": "043",
     "title": "Tokyo milk cheese factory",
     "alt": "Yellow packaging of a Japanese milk cheese biscuit",
     "location": "Unknown, Hong Kong",
@@ -104,7 +98,6 @@
     "url": "/images/43.png"
   },
   {
-    "id": "042",
     "title": "Floppy disk",
     "alt": "Old mini floppy disk in a white and red sleeve",
     "location": "store9yea, Hong Kong",
@@ -112,7 +105,6 @@
     "url": "/images/42.png"
   },
   {
-    "id": "041",
     "title": "Disappointment",
     "alt": "Old risoprint postcard from Hong Kong",
     "location": "store9yea, Hong Kong",
@@ -120,7 +112,6 @@
     "url": "/images/41.png"
   },
   {
-    "id": "040",
     "title": "Family Mart",
     "alt": "Japanese receipt from Family Mart",
     "location": "117 Kōki, Okinawa",
@@ -128,7 +119,6 @@
     "url": "/images/40.jpg"
   },
   {
-    "id": "039",
     "title": "Okinawa Churaumi Aquarium",
     "alt": "Entrance ticket to the Okinawa Churaumi Aquarium",
     "location": "Churaumi Aquarium, Okinawa",
@@ -136,7 +126,6 @@
     "url": "/images/39.png"
   },
   {
-    "id": "038",
     "title": "Godzilla",
     "alt": "Old card double-sided printed with Godzilla",
     "location": "Store9yea, Hong Kong",
@@ -144,7 +133,6 @@
     "url": "/images/38.png"
   },
   {
-    "id": "037",
     "title": "Godzilla",
     "alt": "Old card double-sided printed with Godzilla",
     "location": "Store9yea, Hong Kong",
@@ -152,7 +140,6 @@
     "url": "/images/37.png"
   },
   {
-    "id": "036",
     "title": "Double Circle Brand",
     "alt": "Old packaging of Double Circle Brand matches",
     "location": "Store9yea, Hong Kong",
@@ -160,7 +147,6 @@
     "url": "/images/36.jpg"
   },
   {
-    "id": "035",
     "title": "Mrs Maria Lee's Cookery Card",
     "alt": "Old Mrs Maria Lee's Cookery Card",
     "location": "Store9yea, Hong Kong",
@@ -168,7 +154,6 @@
     "url": "/images/35.png"
   },
   {
-    "id": "034",
     "title": "Rothmans (1975)",
     "alt": "Old Rothmans matchbox from 1975",
     "location": "Store9yea, Hong Kong",
@@ -176,7 +161,6 @@
     "url": "/images/34.png"
   },
   {
-    "id": "033",
     "title": "Choco mini",
     "alt": "Packaging of a peppermint chocolate from Hong Kong",
     "location": "Store9yea, Hong Kong",
@@ -184,7 +168,6 @@
     "url": "/images/33.png"
   },
   {
-    "id": "032",
     "title": "Noodle shop menu",
     "alt": "Takeaway menu from a local noodle shop in Hong Kong",
     "location": "Upper Lascar Row, Hong Kong",
@@ -192,7 +175,6 @@
     "url": "/images/32.jpg"
   },
   {
-    "id": "031",
     "title": "London straight cut cigarettes",
     "alt": "Old advertisement from London straight cut cigarettes",
     "location": "Upper Lascar Row, Hong Kong",
@@ -200,7 +182,6 @@
     "url": "/images/31.png"
   },
   {
-    "id": "030",
     "title": "Publication Catalog 2020/21",
     "alt": "Small red booklet from Slanted Publishers",
     "location": "Slanted Publishers, Berlin",
@@ -208,7 +189,6 @@
     "url": "/images/30.jpg"
   },
   {
-    "id": "029",
     "title": "Precious metal (2001)",
     "alt": "Old apple ad from 2000 for macbook pros",
     "location": "Unknown, Glasgow",
@@ -216,7 +196,6 @@
     "url": "/images/29.png"
   },
   {
-    "id": "028",
     "title": "Shimaya Dashi-no-moto",
     "alt": "Packaging of Japanese dashi",
     "location": "Unknown, Glasgow",
@@ -224,7 +203,6 @@
     "url": "/images/28.jpg"
   },
   {
-    "id": "027",
     "title": "Super Nonna",
     "alt": "A branded food packaging from Super Nonna",
     "location": "Super Nonna, Glasgow",
@@ -232,7 +210,6 @@
     "url": "/images/27.png"
   },
   {
-    "id": "026",
     "title": "Never Coming To a Theater Near You",
     "alt": "A zine from A24",
     "location": "A24, US",
@@ -240,7 +217,6 @@
     "url": "/images/26.png"
   },
   {
-    "id": "025",
     "title": "Le Labo #13",
     "alt": "Le Labo's newspaper leaflet #13",
     "location": "K11, Hong Kong",
@@ -248,7 +224,6 @@
     "url": "/images/25.png"
   },
   {
-    "id": "024",
     "title": "Spitfire MKI",
     "alt": "Old spitfire paper plane toy from Hong Kong",
     "location": "Central Market, Hong Kong",
@@ -256,7 +231,6 @@
     "url": "/images/24.png"
   },
   {
-    "id": "023",
     "title": "I found it",
     "alt": "Old puzzle book from Hong Kong",
     "location": "Central Market, Hong Kong",
@@ -264,7 +238,6 @@
     "url": "/images/23.jpg"
   },
   {
-    "id": "022",
     "title": "Japanese Safety Monster",
     "alt": "Design postcard of the Japanese safety monster",
     "location": "The Mills, Hong Kong",
@@ -272,7 +245,6 @@
     "url": "/images/22.jpg"
   },
   {
-    "id": "021",
     "title": "神話創作者",
     "alt": "Exhibition pamphlet from Hong Kong",
     "location": "Central Market, Hong Kong",
@@ -280,7 +252,6 @@
     "url": "/images/21.png"
   },
   {
-    "id": "020",
     "title": "Pak Fa Fui",
     "alt": "Old colourful candy packaging from Hong Kong",
     "location": "Central Market, Hong Kong",
@@ -288,7 +259,6 @@
     "url": "/images/20.png"
   },
   {
-    "id": "019",
     "title": "JR East Rail Pass",
     "alt": "Japanese JR east rail pass from 2017",
     "location": "Train station, Tokyo",
@@ -296,7 +266,6 @@
     "url": "/images/19.jpg"
   },
   {
-    "id": "018",
     "title": "Nagano > Ilyama",
     "alt": "Japanese train ticket from Nagano to Ilyama",
     "location": "Train station, Nagano",
@@ -304,7 +273,6 @@
     "url": "/images/18.png"
   },
   {
-    "id": "017",
     "title": "Fuji Coaster",
     "alt": "Round paper coaster with a printed outline of Mount Fuji in blue",
     "location": "Unknown, Japan",
@@ -312,7 +280,6 @@
     "url": "/images/17.png"
   },
   {
-    "id": "016",
     "title": "Only rebels win",
     "alt": "Monochromatic poster reading 'this is a class war'",
     "location": "Unknown, Glasgow",
@@ -320,7 +287,6 @@
     "url": "/images/16.png"
   },
   {
-    "id": "015",
     "title": "This is a Class War",
     "alt": "Monochromatic poster reading 'this is a class war'",
     "location": "Unknown, UK",
@@ -328,7 +294,6 @@
     "url": "/images/15.jpg"
   },
   {
-    "id": "014",
     "title": "Crowson's Cheese",
     "alt": "Old circular sticker for Crowson's Cheese",
     "location": "Unknown, UK",
@@ -336,7 +301,6 @@
     "url": "/images/14.png"
   },
   {
-    "id": "013",
     "title": "Glasgow to Pitlochry",
     "alt": "Old train ticket from Glasgow to Pitlochry",
     "location": "Unknown, Glasgow",
@@ -344,7 +308,6 @@
     "url": "/images/13.png"
   },
   {
-    "id": "012",
     "title": "Le Journal #8",
     "alt": "Le Labo's newspaper leaflet #8",
     "location": "Le Labo, London",
@@ -352,7 +315,6 @@
     "url": "/images/12.png"
   },
   {
-    "id": "011",
     "title": "Special Issue Slanted Prague",
     "alt": "Newspaper photography zine in Prague",
     "location": "Slanted, Berlin",
@@ -360,7 +322,6 @@
     "url": "/images/11.png"
   },
   {
-    "id": "010",
     "title": "Toko 東京",
     "alt": "Minimal postcard with Japanese characters for Tokyo",
     "location": "Slanted, Berlin",
@@ -368,7 +329,6 @@
     "url": "/images/10.jpg"
   },
   {
-    "id": "009",
     "title": "Berlin Typo Posters",
     "alt": "Bright yellow and red postcard for Berlin Typo Posters",
     "location": "Slanted, Berlin",
@@ -376,7 +336,6 @@
     "url": "/images/09.jpg"
   },
   {
-    "id": "008",
     "title": "BVG (Dark)",
     "alt": "Limited edition BVG ticket in collaboration with Dark",
     "location": "Eberswalder Straße, Berlin",
@@ -384,7 +343,6 @@
     "url": "/images/08.png"
   },
   {
-    "id": "007",
     "title": "Kinder Biennale 2019",
     "alt": "Pamphlet for the Kinder Biennale 2019",
     "location": "Unknown, Dresden",
@@ -392,7 +350,6 @@
     "url": "/images/07.png"
   },
   {
-    "id": "006",
     "title": "Tallers Oberts BCN 2019",
     "alt": "Pamphlet cover from Tallers Oberts BCN 2019",
     "location": "Unknown, Barcelona",
@@ -400,7 +357,6 @@
     "url": "/images/06.jpg"
   },
   {
-    "id": "005",
     "title": "Slanted #29: Contemporary Typefaces",
     "alt": "Spread from Typography magazine, Slanted",
     "location": "Slanted, Berlin",
@@ -408,7 +364,6 @@
     "url": "/images/05.jpg"
   },
   {
-    "id": "004",
     "title": "Gutenberg Museum",
     "alt": "Red and blue design pamphlets from the Gutenberg Museum",
     "location": "Gutenberg Musuem, Mainz",
@@ -416,7 +371,6 @@
     "url": "/images/04.png"
   },
   {
-    "id": "003",
     "title": "Daikan-Yama",
     "alt": "Local train ticket from Japan",
     "location": "Train Station, Japan",
@@ -424,7 +378,6 @@
     "url": "/images/03.jpg"
   },
   {
-    "id": "002",
     "title": "The Dojosin Fire Festival",
     "alt": "Postcard from Nosawa, Japan",
     "location": "Nosawa-onsen, Japan",
@@ -432,7 +385,6 @@
     "url": "/images/02.jpg"
   },
   {
-    "id": "001",
     "title": "Der Filter SND 2014",
     "alt": "German newspaper poster with overlapping texts",
     "location": "Unknown, Frankfurt",
