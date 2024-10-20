@@ -1,5 +1,68 @@
 [  
   {
+    "title": "RPM Records",
+    "alt": "A circular vinyl shaped flyer from RPM records",
+    "location": "Lucky Records, Reykjavik",
+    "type": ["all", "IS"],
+    "url": "/images/87.png"
+  },
+  {
+    "title": "Baka Baka",
+    "alt": "A paper bag from Baka Baka, a bakery",
+    "location": "Baka Baka, Reykjavik",
+    "type": ["all", "IS"],
+    "url": "/images/86.png"
+  },
+  {
+    "title": "Ari Sigvaldson",
+    "alt": "A recyled business card from a photography store",
+    "location": "Fotografi, Reykjavik",
+    "type": ["all", "IS"],
+    "url": "/images/85.png"
+  },
+  {
+    "title": "Fischersund No. 23",
+    "alt": "Scent card from Fischersund",
+    "location": "Fischersund, Reykjavik",
+    "type": ["all", "PT"],
+    "url": "/images/84.png"
+  },
+  {
+    "title": "BÓNUS",
+    "alt": "A receipt from Bónus supermarket",
+    "location": "Bónus, Reykjavik",
+    "type": ["all", "IS"],
+    "url": "/images/83.jpg"
+  },
+  {
+    "title": "FLÓÐ",
+    "alt": "A double printed postcard from Fischersund",
+    "location": "Fischersund, Reykjavik",
+    "type": ["all", "IS"],
+    "url": "/images/82.png"
+  },
+  {
+    "title": "Untitled",
+    "alt": "A monochromatic typographic bookmark",
+    "location": "Rammagerðin (Harpa), Reykjavik",
+    "type": ["all", "IS"],
+    "url": "/images/81.jpg"
+  },
+  {
+    "title": "BRÁKAREY",
+    "alt": "A leaflet about Icelandic wool",
+    "location": "Varma, Reykjavik",
+    "type": ["all", "IS"],
+    "url": "/images/80.jpg"
+  },
+  {
+    "title": "Dundee Design Festival",
+    "alt": "Risoprinted poster for the Dundee Design Festival",
+    "location": "V&A Museum, Dundee",
+    "type": ["all", "UK"],
+    "url": "/images/79.png"
+  },
+  {
     "title": "1984",
     "alt": "A postcard from Livraria da Travessa",
     "location": "Livraria da Travessa, Lisbon",
