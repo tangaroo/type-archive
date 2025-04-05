@@ -1,4 +1,172 @@
-[  
+[ 
+  {
+    "title": "ARTICLES POUR LIBRARIE",
+    "alt": "A postcard depicting old library books in a medieval font",
+    "location": "Marin Montagut, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/118.jpg"
+  },
+  {
+    "title": "Graphic Matter",
+    "alt": "A risoprint brochure for a local graphic design event",
+    "location": "Librarie sans titre, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/117.png"
+  },
+  {
+    "title": "Cabonara Udon",
+    "alt": "A mini recipe for Cabonara udon from iRASSHAI",
+    "location": "iRASSHAI, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/116.png"
+  }, 
+  {
+    "title": "BOUILLON",
+    "alt": "Cutlery wrapper from Bouillon Pigalle",
+    "location": "Bouillon Pigalle, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/115.png"
+  }, 
+  {
+    "title": "LE CHOCOLAT À L'ÉTAT PUR",
+    "alt": "A brochure chocolate from PLAQ",
+    "location": "PLAQ, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/114.jpg"
+  }, 
+  {
+    "title": "PLAQ",
+    "alt": "A brochure on the making of chocolate from PLAQ",
+    "location": "PLAQ, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/113.jpg"
+  },
+  {
+    "title": "Marin Montagut",
+    "alt": "An oval business card from Marin Montagut",
+    "location": "Marin Montagut, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/112.png"
+  },
+  {
+    "title": "Cahier Central",
+    "alt": "A business card from Cahier Central",
+    "location": "Cahier Central, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/111.jpg"
+  },
+  {
+    "title": "Librarie sans titre",
+    "alt": "A mini business card from Librarie sans titre",
+    "location": "Librarie sans titre, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/110.png"
+  },
+  {
+    "title": "Disparate Librarie Associative",
+    "alt": "A yellow brochure from Librarie sans titre",
+    "location": "Librarie sans titre, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/109.png"
+  },
+  {
+    "title": "No to drugs, yes to Neapolitan pizza",
+    "alt": "A pizza business card from DALMATA",
+    "location": "DALMATA, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/108.png"
+  },
+  {
+    "title": "Yvon Lambert",
+    "alt": "A monochromatic bookmark from Yvon Lambert",
+    "location": "Yvon Lambert, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/107.png"
+  },
+  {
+    "title": "Le Chocolat",
+    "alt": "A fish shaped brochure from Le Chocolat",
+    "location": "Galeries Lafayette, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/106.png"
+  },
+  {
+    "title": "Musée L'Orangerie",
+    "alt": "A ticket from the Musee L'Orangerie",
+    "location": "Musée L'Orangerie, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/105.png"
+  },
+  {
+    "title": "L'Âme du Phénix",
+    "alt": "A perfume scent card from Spotuno",
+    "location": "Merci, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/104.png"
+  },
+  {
+    "title": "Canapé Merci Merci",
+    "alt": "An item details card from Merci",
+    "location": "Merci, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/103.jpg"
+  },
+  {
+    "title": "Nature Sensible",
+    "alt": "A postcard from La Slow Galerie",
+    "location": "La Slow Galerie, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/102.png"
+  },
+  {
+    "title": "Cacophonies 2025",
+    "alt": "A postcard for the Cacophonies exhibition",
+    "location": "La Slow Galerie, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/101.png"
+  },
+  {
+    "title": "Tora",
+    "alt": "A red and white risoprint from Takuya Kawaguchi",
+    "location": "Inventaire, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/100.jpg"
+  },
+  {
+    "title": "Kaminotsukai",
+    "alt": "A black and white risoprint from Takuya Kawaguchi",
+    "location": "Inventaire, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/99.png"
+  },
+  {
+    "title": "Quintal Atelier",
+    "alt": "An alternative risoprint business card from Quintal Atelier",
+    "location": "Quintal Atelier, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/98.jpg"
+  },
+  {
+    "title": "Caractère De Cochon",
+    "alt": "An A5 risoprint from Quintal Atelier",
+    "location": "Quintal Atelier, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/97.png"
+  },
+  {
+    "title": "Merci Merci",
+    "alt": "A business card from Quintal Atelier",
+    "location": "Quintal Atelier, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/96.png"
+  },
+  {
+    "title": "Quintal",
+    "alt": "A business card from Quintal Atelier",
+    "location": "Quintal Atelier, Paris",
+    "type": ["all", "FR"],
+    "url": "/images/95.png"
+  },
   {
     "title": "Sans Plomb",
     "alt": "A risoprint A3 poster from Quintal Atelier",
