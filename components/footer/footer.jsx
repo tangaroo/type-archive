@@ -4,7 +4,7 @@ import styled from "styled-components";
 export default function FooterComponent() {
   return (
     <Footer>
-      <h2>Last updated 05.04.2025</h2>
+      <h2>Last updated 05/04/2025</h2>
       <h2>
         Say hey @{" "}
         <a href="https://cassandratang.com">cassandratang.com</a>
